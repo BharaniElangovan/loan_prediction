@@ -1,6 +1,6 @@
-# loan_prediction
+# loan_prediction-credit risk analysis
 Loan approval prediction using Python, Pandas, Seaborn, and scikit‑learn. Includes data preprocessing, EDA, model training, and evaluation.
-# Loan Prediction Project
+# Loan approval Prediction-credit risk analysis Project
 
 ## 📌 Overview
 This project predicts loan approval status using machine learning.  
